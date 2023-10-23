@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort algorithm.
+
+How do you know?: Because the algorithm with sorted numbers run much faster than the reversed numbers. Big O notation: O(n²) and Ω(n).
+
+sort2 uses: Merge Sort algorithm.
+
+How do you know?: For each cases running time takes less time than the other sorting algorithms. Moreover sorting the reversed numbers takes aproximately the same time as for the sorted one. Big O notation: O(n log n) and Ω(n log n).
+
+sort3 uses: Selection Sort algorithm.
+
+How do you know?: Running time of the algorithm takes aproximately the same time for reversed numbers as for the sorded one. Big O notation: O(n²) and Ω(n²).
